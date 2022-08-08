@@ -1,0 +1,9 @@
+<head>
+	<meta charset="utf-8">
+	<title>I Can Click A Rainbow</title>
+</head>
+	<body>
+		<button id="button">Click Me!</button>
+		<script src="C:\Users\angel\rainbow\js\scripts.js"></script>
+	</body>
+</html>
